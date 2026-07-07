@@ -13,6 +13,10 @@ multiple scales, estimates the reliability of each available modality, gates out
 unreliable contributions before fusion, and enforces consistency across
 arbitrary modality subsets.
 
+<div align="center"> 
+  <img src="assets/Supplementary Video Output.mp4" width="90%"/> 
+</div>
+
 > This code base extends the DC-Seg (MICCAI 2025) framework. See
 > [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) for a component-by-component map
 > from code to the manuscript equations, and for the differences from DC-Seg.
